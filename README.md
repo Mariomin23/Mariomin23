@@ -40,13 +40,6 @@ Tools: Git, Vite, Vercel, Playwright
 
 ⸻
 
-📊 GitHub Stats
-
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariomin23&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariomin23&layout=compact&hide_border=true)
-
-⸻
-
 ⚡ Fun Fact
 
 When I’m not coding, you’ll probably find me:
