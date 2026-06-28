@@ -43,7 +43,6 @@ I build clean, functional web apps end to end — from the UI to the API and the
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-2ea44f?style=flat&logo=vercel&logoColor=white)](https://curriculum-eta-two.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mario.minuesa@gmail.com)
-<!-- TODO: add your LinkedIn -->
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariominuesa)
 
 **Open to new opportunities — feel free to reach out!**
