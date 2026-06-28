@@ -43,9 +43,8 @@ Tools: Git, Vite, Vercel, Playwright
 ⚡ Fun Fact
 
 When I’m not coding, you’ll probably find me:
-🍻 grabbing a beer
-🎵 listening to music
-🌍 out and about
+🍻 playing rugby
+🎵 at a rock concert
 
 ⸻
 
