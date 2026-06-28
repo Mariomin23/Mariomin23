@@ -15,7 +15,7 @@ Currently **open to my first developer role**, where I can keep growing on a rea
 What I’ve been building lately:
 * A multi-agent automation bot in Python (orchestrator + isolated agents + tests)
 * A fullstack fitness app with authentication and Stripe payments
-* A job-hunter bot that scrapes listings and emails the matches
+* A job-hunter bot that scrapes listings and emails the matches.
 
 ⸻
 
